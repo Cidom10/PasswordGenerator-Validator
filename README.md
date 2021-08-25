@@ -8,4 +8,3 @@ The rules I followed for validation are:
 2. Atleast one uppercase and one lowercase letter
 3. Atleast one number
 4. Atleast one special character
-(Atleast these are the common rules I have found across the internet)
